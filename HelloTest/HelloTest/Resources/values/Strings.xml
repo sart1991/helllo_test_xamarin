@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ApplicationName">HelloTest</string>
+    <string name="main_numberTitle">Escriba un numero:</string>
+    <string name="main_numberContent">1-855-XAMARIN</string>
+    <string name="main_transform">Transformar</string>
+</resources>
