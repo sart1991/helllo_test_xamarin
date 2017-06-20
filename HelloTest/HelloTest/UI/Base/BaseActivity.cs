@@ -15,6 +15,12 @@ namespace HelloTest.UI.Base
 {
     abstract public class BaseActivity : Activity, MvpView
     {
+        protected override void OnCreate(Bundle savedInstanceState)
+        {
+            base.OnCreate(savedInstanceState);
+            Window.AddFlags(WindowManagerFlags.DrawsSystemBarBackgrounds);
+        }
+
         public void OnNotify(int stringRes, View view)
         {
             OnNotify(GetString(stringRes), view);
@@ -25,14 +31,14 @@ namespace HelloTest.UI.Base
             ShowSnackBar(message, view);
         }
 
-        private void ShowSnackBar(String message, View view)
+        private void ShowSnackBar(string message, View view)
         {
-            Snackbar.Make(view, message, Snackbar.LengthLong).Show();
+            Snackbar.Make(GetSnackView(view), message, Snackbar.LengthLong).Show();
         }
 
-        private View SnackView(View view)
+        private View GetSnackView(View view)
         {
-            return view != null ? view : FindViewById(Resource.Id.wrap_content);
+            return view != null ? view : FindViewById(Android.Resource.Id.Content);
         }
 
         public abstract Context GetViewContext();
