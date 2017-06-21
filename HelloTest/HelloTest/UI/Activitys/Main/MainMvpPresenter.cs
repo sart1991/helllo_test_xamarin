@@ -16,5 +16,7 @@ namespace HelloTest.UI.Activitys.Main
     interface MainMvpPresenter<V> : MvpPresenter<V> where V : MainMvpView
     {
         void ClickButtonSubmit(String name);
+        void ClickButtonRegister(String name);
+        void ClickButtonShowRegister();
     }
 }

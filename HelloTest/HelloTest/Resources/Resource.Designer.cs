@@ -2264,8 +2264,8 @@ namespace HelloTest
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f070088
-			public const int action0 = 2131165320;
+			// aapt resource value: 0x7f07008a
+			public const int action0 = 2131165322;
 			
 			// aapt resource value: 0x7f070065
 			public const int action_bar = 2131165285;
@@ -2288,17 +2288,17 @@ namespace HelloTest
 			// aapt resource value: 0x7f070042
 			public const int action_bar_title = 2131165250;
 			
-			// aapt resource value: 0x7f070085
-			public const int action_container = 2131165317;
+			// aapt resource value: 0x7f070087
+			public const int action_container = 2131165319;
 			
 			// aapt resource value: 0x7f070066
 			public const int action_context_bar = 2131165286;
 			
-			// aapt resource value: 0x7f07008c
-			public const int action_divider = 2131165324;
+			// aapt resource value: 0x7f07008e
+			public const int action_divider = 2131165326;
 			
-			// aapt resource value: 0x7f070086
-			public const int action_image = 2131165318;
+			// aapt resource value: 0x7f070088
+			public const int action_image = 2131165320;
 			
 			// aapt resource value: 0x7f070003
 			public const int action_menu_divider = 2131165187;
@@ -2315,11 +2315,11 @@ namespace HelloTest
 			// aapt resource value: 0x7f070044
 			public const int action_mode_close_button = 2131165252;
 			
-			// aapt resource value: 0x7f070087
-			public const int action_text = 2131165319;
+			// aapt resource value: 0x7f070089
+			public const int action_text = 2131165321;
 			
-			// aapt resource value: 0x7f070095
-			public const int actions = 2131165333;
+			// aapt resource value: 0x7f070097
+			public const int actions = 2131165335;
 			
 			// aapt resource value: 0x7f070045
 			public const int activity_chooser_view_content = 2131165253;
@@ -2348,11 +2348,17 @@ namespace HelloTest
 			// aapt resource value: 0x7f07004c
 			public const int buttonPanel = 2131165260;
 			
+			// aapt resource value: 0x7f070078
+			public const int button_main_register = 2131165304;
+			
+			// aapt resource value: 0x7f070079
+			public const int button_main_showRegister = 2131165305;
+			
 			// aapt resource value: 0x7f070077
 			public const int button_main_submit = 2131165303;
 			
-			// aapt resource value: 0x7f070089
-			public const int cancel_action = 2131165321;
+			// aapt resource value: 0x7f07008b
+			public const int cancel_action = 2131165323;
 			
 			// aapt resource value: 0x7f070031
 			public const int center = 2131165233;
@@ -2366,8 +2372,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f07005c
 			public const int checkbox = 2131165276;
 			
-			// aapt resource value: 0x7f070091
-			public const int chronometer = 2131165329;
+			// aapt resource value: 0x7f070093
+			public const int chronometer = 2131165331;
 			
 			// aapt resource value: 0x7f07003a
 			public const int clip_horizontal = 2131165242;
@@ -2393,20 +2399,20 @@ namespace HelloTest
 			// aapt resource value: 0x7f070048
 			public const int default_activity_button = 2131165256;
 			
-			// aapt resource value: 0x7f07007b
-			public const int design_bottom_sheet = 2131165307;
+			// aapt resource value: 0x7f07007d
+			public const int design_bottom_sheet = 2131165309;
+			
+			// aapt resource value: 0x7f070084
+			public const int design_menu_item_action_area = 2131165316;
+			
+			// aapt resource value: 0x7f070083
+			public const int design_menu_item_action_area_stub = 2131165315;
 			
 			// aapt resource value: 0x7f070082
-			public const int design_menu_item_action_area = 2131165314;
+			public const int design_menu_item_text = 2131165314;
 			
 			// aapt resource value: 0x7f070081
-			public const int design_menu_item_action_area_stub = 2131165313;
-			
-			// aapt resource value: 0x7f070080
-			public const int design_menu_item_text = 2131165312;
-			
-			// aapt resource value: 0x7f07007f
-			public const int design_navigation_view = 2131165311;
+			public const int design_navigation_view = 2131165313;
 			
 			// aapt resource value: 0x7f070013
 			public const int disableHome = 2131165203;
@@ -2420,8 +2426,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f070022
 			public const int end = 2131165218;
 			
-			// aapt resource value: 0x7f07009b
-			public const int end_padder = 2131165339;
+			// aapt resource value: 0x7f07009d
+			public const int end_padder = 2131165341;
 			
 			// aapt resource value: 0x7f07002b
 			public const int enterAlways = 2131165227;
@@ -2459,8 +2465,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f07004a
 			public const int icon = 2131165258;
 			
-			// aapt resource value: 0x7f070096
-			public const int icon_group = 2131165334;
+			// aapt resource value: 0x7f070098
+			public const int icon_group = 2131165336;
 			
 			// aapt resource value: 0x7f070026
 			public const int ifRoom = 2131165222;
@@ -2468,23 +2474,23 @@ namespace HelloTest
 			// aapt resource value: 0x7f070047
 			public const int image = 2131165255;
 			
-			// aapt resource value: 0x7f070092
-			public const int info = 2131165330;
+			// aapt resource value: 0x7f070094
+			public const int info = 2131165332;
 			
 			// aapt resource value: 0x7f070000
 			public const int item_touch_helper_previous_elevation = 2131165184;
 			
-			// aapt resource value: 0x7f070079
-			public const int largeLabel = 2131165305;
+			// aapt resource value: 0x7f07007b
+			public const int largeLabel = 2131165307;
 			
 			// aapt resource value: 0x7f070035
 			public const int left = 2131165237;
 			
-			// aapt resource value: 0x7f070097
-			public const int line1 = 2131165335;
-			
 			// aapt resource value: 0x7f070099
-			public const int line3 = 2131165337;
+			public const int line1 = 2131165337;
+			
+			// aapt resource value: 0x7f07009b
+			public const int line3 = 2131165339;
 			
 			// aapt resource value: 0x7f070010
 			public const int listMode = 2131165200;
@@ -2492,11 +2498,11 @@ namespace HelloTest
 			// aapt resource value: 0x7f070049
 			public const int list_item = 2131165257;
 			
-			// aapt resource value: 0x7f07009d
-			public const int masked = 2131165341;
+			// aapt resource value: 0x7f07009f
+			public const int masked = 2131165343;
 			
-			// aapt resource value: 0x7f07008b
-			public const int media_actions = 2131165323;
+			// aapt resource value: 0x7f07008d
+			public const int media_actions = 2131165325;
 			
 			// aapt resource value: 0x7f070023
 			public const int middle = 2131165219;
@@ -2507,8 +2513,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f07001b
 			public const int multiply = 2131165211;
 			
-			// aapt resource value: 0x7f07007e
-			public const int navigation_header_container = 2131165310;
+			// aapt resource value: 0x7f070080
+			public const int navigation_header_container = 2131165312;
 			
 			// aapt resource value: 0x7f070027
 			public const int never = 2131165223;
@@ -2519,14 +2525,14 @@ namespace HelloTest
 			// aapt resource value: 0x7f070011
 			public const int normal = 2131165201;
 			
-			// aapt resource value: 0x7f070094
-			public const int notification_background = 2131165332;
+			// aapt resource value: 0x7f070096
+			public const int notification_background = 2131165334;
 			
-			// aapt resource value: 0x7f07008e
-			public const int notification_main_column = 2131165326;
+			// aapt resource value: 0x7f070090
+			public const int notification_main_column = 2131165328;
 			
-			// aapt resource value: 0x7f07008d
-			public const int notification_main_column_container = 2131165325;
+			// aapt resource value: 0x7f07008f
+			public const int notification_main_column_container = 2131165327;
 			
 			// aapt resource value: 0x7f070038
 			public const int parallax = 2131165240;
@@ -2552,11 +2558,11 @@ namespace HelloTest
 			// aapt resource value: 0x7f070036
 			public const int right = 2131165238;
 			
-			// aapt resource value: 0x7f070093
-			public const int right_icon = 2131165331;
+			// aapt resource value: 0x7f070095
+			public const int right_icon = 2131165333;
 			
-			// aapt resource value: 0x7f07008f
-			public const int right_side = 2131165327;
+			// aapt resource value: 0x7f070091
+			public const int right_side = 2131165329;
 			
 			// aapt resource value: 0x7f07001c
 			public const int screen = 2131165212;
@@ -2621,14 +2627,14 @@ namespace HelloTest
 			// aapt resource value: 0x7f070018
 			public const int showTitle = 2131165208;
 			
-			// aapt resource value: 0x7f070078
-			public const int smallLabel = 2131165304;
+			// aapt resource value: 0x7f07007a
+			public const int smallLabel = 2131165306;
 			
-			// aapt resource value: 0x7f07007d
-			public const int snackbar_action = 2131165309;
+			// aapt resource value: 0x7f07007f
+			public const int snackbar_action = 2131165311;
 			
-			// aapt resource value: 0x7f07007c
-			public const int snackbar_text = 2131165308;
+			// aapt resource value: 0x7f07007e
+			public const int snackbar_text = 2131165310;
 			
 			// aapt resource value: 0x7f07002f
 			public const int snap = 2131165231;
@@ -2651,8 +2657,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f070037
 			public const int start = 2131165239;
 			
-			// aapt resource value: 0x7f07008a
-			public const int status_bar_latest_event_content = 2131165322;
+			// aapt resource value: 0x7f07008c
+			public const int status_bar_latest_event_content = 2131165324;
 			
 			// aapt resource value: 0x7f07005f
 			public const int submenuarrow = 2131165279;
@@ -2663,11 +2669,11 @@ namespace HelloTest
 			// aapt resource value: 0x7f070012
 			public const int tabMode = 2131165202;
 			
-			// aapt resource value: 0x7f07009a
-			public const int text = 2131165338;
+			// aapt resource value: 0x7f07009c
+			public const int text = 2131165340;
 			
-			// aapt resource value: 0x7f070098
-			public const int text2 = 2131165336;
+			// aapt resource value: 0x7f07009a
+			public const int text2 = 2131165338;
 			
 			// aapt resource value: 0x7f070053
 			public const int textSpacerNoButtons = 2131165267;
@@ -2678,8 +2684,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f070076
 			public const int textView_main_showName = 2131165302;
 			
-			// aapt resource value: 0x7f070083
-			public const int text_input_password_toggle = 2131165315;
+			// aapt resource value: 0x7f070085
+			public const int text_input_password_toggle = 2131165317;
 			
 			// aapt resource value: 0x7f07000c
 			public const int textinput_counter = 2131165196;
@@ -2690,8 +2696,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f070074
 			public const int til_main_name = 2131165300;
 			
-			// aapt resource value: 0x7f070090
-			public const int time = 2131165328;
+			// aapt resource value: 0x7f070092
+			public const int time = 2131165330;
 			
 			// aapt resource value: 0x7f07004b
 			public const int title = 2131165259;
@@ -2702,8 +2708,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f070058
 			public const int title_template = 2131165272;
 			
-			// aapt resource value: 0x7f070084
-			public const int toolbar = 2131165316;
+			// aapt resource value: 0x7f070086
+			public const int toolbar = 2131165318;
 			
 			// aapt resource value: 0x7f07002a
 			public const int top = 2131165226;
@@ -2711,8 +2717,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f070057
 			public const int topPanel = 2131165271;
 			
-			// aapt resource value: 0x7f07007a
-			public const int touch_outside = 2131165306;
+			// aapt resource value: 0x7f07007c
+			public const int touch_outside = 2131165308;
 			
 			// aapt resource value: 0x7f07000a
 			public const int transition_current_scene = 2131165194;
@@ -2729,8 +2735,8 @@ namespace HelloTest
 			// aapt resource value: 0x7f07000e
 			public const int view_offset_helper = 2131165198;
 			
-			// aapt resource value: 0x7f07009c
-			public const int visible = 2131165340;
+			// aapt resource value: 0x7f07009e
+			public const int visible = 2131165342;
 			
 			// aapt resource value: 0x7f070028
 			public const int withText = 2131165224;
@@ -3096,7 +3102,13 @@ namespace HelloTest
 			public const int character_counter_pattern = 2131230755;
 			
 			// aapt resource value: 0x7f08002b
-			public const int main_button = 2131230763;
+			public const int main_buttonHello = 2131230763;
+			
+			// aapt resource value: 0x7f08002c
+			public const int main_buttonRegister = 2131230764;
+			
+			// aapt resource value: 0x7f08002d
+			public const int main_buttonShowRegisters = 2131230765;
 			
 			// aapt resource value: 0x7f08002a
 			public const int main_nameHint = 2131230762;

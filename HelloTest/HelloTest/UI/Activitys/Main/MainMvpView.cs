@@ -16,5 +16,7 @@ namespace HelloTest.UI.Activitys.Main
     interface MainMvpView : MvpView
     {
         void ShowNameText(String name);
+
+        void ShowNameError();
     }
 }

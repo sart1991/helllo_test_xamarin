@@ -2,5 +2,7 @@
 <resources>
     <string name="AppName">HelloTest</string>
     <string name="main_nameHint">Ingrese su nombre</string>
-    <string name="main_button">Saludar</string>
+    <string name="main_buttonHello">Saludar</string>
+    <string name="main_buttonRegister">Registrar Nombre</string>
+    <string name="main_buttonShowRegisters">Mostrar Registros</string>
 </resources>
